@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "cancpp", "cancpp\cancpp.cppproj", "{B99F26E3-9B7B-4FBD-B091-7AE0C909AB6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+		TFA option|AVR = TFA option|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B99F26E3-9B7B-4FBD-B091-7AE0C909AB6C}.Debug|AVR.ActiveCfg = Debug|AVR
+		{B99F26E3-9B7B-4FBD-B091-7AE0C909AB6C}.Debug|AVR.Build.0 = Debug|AVR
+		{B99F26E3-9B7B-4FBD-B091-7AE0C909AB6C}.Release|AVR.ActiveCfg = Release|AVR
+		{B99F26E3-9B7B-4FBD-B091-7AE0C909AB6C}.Release|AVR.Build.0 = Release|AVR
+		{B99F26E3-9B7B-4FBD-B091-7AE0C909AB6C}.TFA option|AVR.ActiveCfg = TFA option|AVR
+		{B99F26E3-9B7B-4FBD-B091-7AE0C909AB6C}.TFA option|AVR.Build.0 = TFA option|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
